@@ -1,0 +1,10 @@
+a="abi"
+b="dan"
+c=a<b
+print(a,"<",b,"=",c)
+c=a>b
+print(a,">",b,"=",c)
+c=a==b
+print(a,"==",b"=",c)
+c=a!=b
+print(a,"!=",b,"=",c)
